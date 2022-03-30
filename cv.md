@@ -25,3 +25,10 @@ function multiply(a, b){
 }
 console.log(multiply(7, 2))
 ```
+## Education
+
+* BNTU
+* IT Shatle
+* Learn.javascript.ru
+* RS Shool
+
